@@ -12,8 +12,8 @@ The project will be on predicting the Saudi stock market index (TASI) using mach
 *	Larry William’s R%
 *	A/D (Accumulation/Distribution) oscillator
 *	CCI (commodity channel index).
-More variables might be added later or exchanged as the study progressed. 
 
+More variables might be added later or exchanged as the study progressed. \
 **Num. of Samples (Training: Validation: Test):** around 2610
 
 ## Tools:
