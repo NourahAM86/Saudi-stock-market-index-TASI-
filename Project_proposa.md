@@ -17,7 +17,7 @@ More variables might be added later or exchanged as the study progressed. \
 **Num. of Samples (Training: Validation: Test):** around 2610
 
 ## Tools:
-Support Vector Regression (SVR)
+Support Vector Regression (SVR)\
 Numpy , Pandas, Matplotlib, Seaborn, EDA
 
 
